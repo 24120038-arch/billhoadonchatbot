@@ -1,6 +1,6 @@
 import streamlit as st
 from datetime import datetime
-
+st.image("IMG_0509.jpeg")
 # =========================
 # CẤU HÌNH TRANG
 # =========================
